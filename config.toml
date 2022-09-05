@@ -62,7 +62,7 @@ title = 'Catherine Cimon-Paquet'
 
     custom = ""
     # whether to show Hugo and theme info
-    hugo = false
+    hugo = true 
     # whether to show copyright info
     copyright = true
     # whether to show the author
